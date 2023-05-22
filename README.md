@@ -170,3 +170,4 @@ To determine how many items a tuple has, use the len() function
 It is also possible to use the tuple() constructor to make a tuple.
 ### Access Tuple Items
 You can access tuple items by referring to the index number, inside square brackets
+## Dictionaries
