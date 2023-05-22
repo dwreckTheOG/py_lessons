@@ -163,3 +163,10 @@ Lists are one of 4 built-in data types in Python used to store collections of da
 To determine how many items a list has, use the len() function
 ### Access List Items
 List items are indexed and you can access them by referring to the index number.
+## Tuples
+### Tuple Length
+To determine how many items a tuple has, use the len() function
+### The tuple() Constructor
+It is also possible to use the tuple() constructor to make a tuple.
+### Access Tuple Items
+You can access tuple items by referring to the index number, inside square brackets
