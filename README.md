@@ -114,3 +114,52 @@ You can evaluate any expression in Python, and get one of two answers, True or F
 When you compare two values, the expression is evaluated and Python returns the Boolean answer.
 ### Evaluate Values and Variables
 The bool() function allows you to evaluate any value, and give you True or False in return
+## Operators
+Operators are used to perform operations on variables and values.
+### Arithmetic Operators
+Arithmetic operators are used with numeric values to perform common mathematical operations.
+* (+)   addition
+* (-)   subtraction
+* (*)   multiplication
+* (/) 	Division 	 	
+* (%) 	Modulus 	
+* (**) 	Exponentiation 		
+* (//) 	Floor division
+### Assignment Operators
+Assignment operators are used to assign values to variables
+* = 	x = 5 	x = 5 	
+* += 	x += 3 	x = x + 3 	
+* -= 	x -= 3 	x = x - 3 	
+* *= 	x *= 3 	x = x * 3 	
+* /= 	x /= 3 	x = x / 3 	
+* %= 	x %= 3 	x = x % 3 	
+* //= 	x //= 3 	x = x // 3 	
+* **= 	x **= 3 	x = x ** 3 	
+* &= 	x &= 3 	x = x & 3 	
+* |= 	x |= 3 	x = x | 3 	
+* ^= 	x ^= 3 	x = x ^ 3 	
+* >>= 	x >>= 3 	x = x >> 3 	
+* <<= 	x <<= 3 	x = x << 3
+### Comparison Operators
+
+Comparison operators are used to compare two values:
+Operator 	Name 	        Example 	
+* == 	    Equal 	        x == y 	
+* != 	    Not equal 	    x != y 	
+* > 	    Greater than 	x > y 	
+* < 	    Less than 	    x < y 	
+* >= 	    Greater than    x >= y 	
+            or equal to
+* <= 	    Less than   	x <= y
+            or equal to
+### Logical Operators
+Logical operators are used to combine conditional statements
+### Identity Operators
+Identity operators are used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location
+## Lists
+Lists are used to store multiple items in a single variable.
+Lists are one of 4 built-in data types in Python used to store collections of data.
+### List Length
+To determine how many items a list has, use the len() function
+### Access List Items
+List items are indexed and you can access them by referring to the index number.
